@@ -1,0 +1,3 @@
+C:/Users/matth/OneDrive/Desktop/CLASSES/COSC 1437 C++/RPG/cmake-build-debug/CMakeFiles/RPG.dir
+C:/Users/matth/OneDrive/Desktop/CLASSES/COSC 1437 C++/RPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/OneDrive/Desktop/CLASSES/COSC 1437 C++/RPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
