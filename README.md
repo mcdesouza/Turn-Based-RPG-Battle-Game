@@ -1,7 +1,6 @@
-# Fantasy Fighter RPG
+# BATTLE GAME (OLD)
 
-Fantasy Fighter RPG is a turn-based C++ battle game where players create a character, level up through battles, and survive against increasingly powerful enemies.
-The game features multiple character classes, a save/load system, dynamic enemy behavior, and a simple text-based interface.
+Initial implementation of the Battle Game will use a lot of the structure but revamped
 ## Features
 
     Object-Oriented Design: Implemented with base Character class and derived classes Wizard, Berserker, and Swordsman.
